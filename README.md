@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/TheShr/Question_Practice/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheShr/Question_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/TheShr/Question_Practice/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheShr/Question_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -29,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/TheShr/Question_Practice/tree/master/0547-number-of-provinces) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/TheShr/Question_Practice/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/TheShr/Question_Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
