@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/TheShr/Question_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TheShr/Question_Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/TheShr/Question_Practice/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/TheShr/Question_Practice/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/TheShr/Question_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TheShr/Question_Practice/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/TheShr/Question_Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TheShr/Question_Practice/tree/master/0547-number-of-provinces) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/TheShr/Question_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TheShr/Question_Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/TheShr/Question_Practice/tree/master/0547-number-of-provinces) |
 ## Greedy
@@ -74,5 +77,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/TheShr/Question_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TheShr/Question_Practice/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
