@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheShr/Question_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TheShr/Question_Practice/tree/master/0035-search-insert-position) |
 | [0130-surrounded-regions](https://github.com/TheShr/Question_Practice/tree/master/0130-surrounded-regions) |
 | [0455-assign-cookies](https://github.com/TheShr/Question_Practice/tree/master/0455-assign-cookies) |
@@ -93,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheShr/Question_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TheShr/Question_Practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
