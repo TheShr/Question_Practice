@@ -132,4 +132,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheShr/Question_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheShr/Question_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/TheShr/Question_Practice/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/TheShr/Question_Practice/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/TheShr/Question_Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
