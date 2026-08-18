@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/TheShr/Question_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TheShr/Question_Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/TheShr/Question_Practice/tree/master/1539-kth-missing-positive-number) |
+| [2104-sum-of-subarray-ranges](https://github.com/TheShr/Question_Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheShr/Question_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/TheShr/Question_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheShr/Question_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheShr/Question_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/TheShr/Question_Practice/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
 | ------- |
@@ -174,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/TheShr/Question_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TheShr/Question_Practice/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/TheShr/Question_Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/TheShr/Question_Practice/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
