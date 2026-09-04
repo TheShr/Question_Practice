@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/TheShr/Question_Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/TheShr/Question_Practice/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/TheShr/Question_Practice/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/TheShr/Question_Practice/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/TheShr/Question_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/TheShr/Question_Practice/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/TheShr/Question_Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheShr/Question_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/TheShr/Question_Practice/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/TheShr/Question_Practice/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheShr/Question_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/TheShr/Question_Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/TheShr/Question_Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
