@@ -5,7 +5,7 @@ public:
         int maxlen = 0, zeroes = 0, l = 0;
         for(int r =0; r<n; r++){
             if(nums[r] == 0) zeroes++;
-            while(zeroes > k){
+            if(zeroes > k){
                 if(nums[l] == 0) zeroes--;
                 l++;
             }
