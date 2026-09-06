@@ -105,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheShr/Question_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/TheShr/Question_Practice/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/TheShr/Question_Practice/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheShr/Question_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheShr/Question_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheShr/Question_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheShr/Question_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheShr/Question_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheShr/Question_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/TheShr/Question_Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/TheShr/Question_Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheShr/Question_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
