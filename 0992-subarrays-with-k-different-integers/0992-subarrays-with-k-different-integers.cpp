@@ -11,7 +11,7 @@ public:
                 l++;
                 
             }
-            ans += (r-l+1);
+            if(mp.size() <= k) ans += (r-l+1);
             
         }
         return ans;
