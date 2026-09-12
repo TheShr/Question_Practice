@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/TheShr/Question_Practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/TheShr/Question_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TheShr/Question_Practice/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/TheShr/Question_Practice/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/TheShr/Question_Practice/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TheShr/Question_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TheShr/Question_Practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/TheShr/Question_Practice/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/TheShr/Question_Practice/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/TheShr/Question_Practice/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/TheShr/Question_Practice/tree/master/0542-01-matrix) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/TheShr/Question_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TheShr/Question_Practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/TheShr/Question_Practice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/TheShr/Question_Practice/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/TheShr/Question_Practice/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/TheShr/Question_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TheShr/Question_Practice/tree/master/0213-house-robber-ii) |
