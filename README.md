@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/TheShr/Question_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TheShr/Question_Practice/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/TheShr/Question_Practice/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/TheShr/Question_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/TheShr/Question_Practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/TheShr/Question_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TheShr/Question_Practice/tree/master/0503-next-greater-element-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/TheShr/Question_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TheShr/Question_Practice/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/TheShr/Question_Practice/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/TheShr/Question_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/TheShr/Question_Practice/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/TheShr/Question_Practice/tree/master/0907-sum-of-subarray-minimums) |
 ## Topological Sort
@@ -244,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TheShr/Question_Practice/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/TheShr/Question_Practice/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/TheShr/Question_Practice/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
