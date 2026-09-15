@@ -19,23 +19,24 @@ public:
         int s2 = (sum-target)/2;
         if((sum-target) % 2 != 0|| sum - target < 0) return 0;
         
-        vector<vector<int>> dp(n, vector<int> (s2+1, 0));
-        if(nums[0] == 0) dp[0][0] = 2;
-        else dp[0][0] = 1;
+        vector<int> pref(s2+1, 0), curr(s2+1, 0);
+        if(nums[0] == 0) pref[0] = 2;
+        else pref[0] = 1;
 
-        if(nums[0] <= s2 && nums[0] != 0) dp[0][nums[0]] = 1;
+        if(nums[0] <= s2 && nums[0] != 0) pref[nums[0]] = 1;
         
 
 
         for(int i = 1; i<n; i++){
             for(int j = 0; j<= s2; j++){
                 int pick = 0;
-                if(nums[i] <= j) pick = dp[i-1][j-nums[i]];
-                int notpick = dp[i-1][j];
+                if(nums[i] <= j) pick = pref[j-nums[i]];
+                int notpick = pref[j];
 
-                dp[i][j] = (pick + notpick);
+                curr[j] = (pick + notpick);
             }
+            pref = curr;
         }
-        return dp[n-1][s2];
+        return pref[s2];
     }
 };
