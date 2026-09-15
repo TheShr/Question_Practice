@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheShr/Question_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0516-longest-palindromic-subsequence](https://github.com/TheShr/Question_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheShr/Question_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheShr/Question_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/TheShr/Question_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/TheShr/Question_Practice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/TheShr/Question_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/TheShr/Question_Practice/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/TheShr/Question_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/TheShr/Question_Practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/TheShr/Question_Practice/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/TheShr/Question_Practice/tree/master/0907-sum-of-subarray-minimums) |
