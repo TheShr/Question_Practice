@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/TheShr/Question_Practice/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/TheShr/Question_Practice/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/TheShr/Question_Practice/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/TheShr/Question_Practice/tree/master/1020-number-of-enclaves) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/TheShr/Question_Practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/TheShr/Question_Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TheShr/Question_Practice/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/TheShr/Question_Practice/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/TheShr/Question_Practice/tree/master/0994-rotting-oranges) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/TheShr/Question_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheShr/Question_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/TheShr/Question_Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/TheShr/Question_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
