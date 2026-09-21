@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/TheShr/Question_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TheShr/Question_Practice/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/TheShr/Question_Practice/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/TheShr/Question_Practice/tree/master/0733-flood-fill) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/TheShr/Question_Practice/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/TheShr/Question_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TheShr/Question_Practice/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/TheShr/Question_Practice/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/TheShr/Question_Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TheShr/Question_Practice/tree/master/0547-number-of-provinces) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/TheShr/Question_Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/TheShr/Question_Practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/TheShr/Question_Practice/tree/master/0115-distinct-subsequences) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/TheShr/Question_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/TheShr/Question_Practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TheShr/Question_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0901-online-stock-span](https://github.com/TheShr/Question_Practice/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/TheShr/Question_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/TheShr/Question_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -374,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/TheShr/Question_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/TheShr/Question_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
