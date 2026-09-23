@@ -1,20 +1,23 @@
 class Solution {
 public:
-    bool isCycle(int node, vector<vector<int>>& adjLs, vector<int> &vis, vector<int> &pathvis){
+    bool dfs(vector<vector<int>> &adjLs, int node,vector<int> &vis, vector<int> &pathvis){
+        
         vis[node] = 1;
         pathvis[node] = 1;
-        for(auto &it : adjLs[node]){
+
+        for(int it : adjLs[node]){
             if(!vis[it]){
-                if(isCycle(it, adjLs, vis, pathvis)) return true;
+                if(dfs(adjLs, it, vis, pathvis) == true) return true;    
             }
-            else if(pathvis[it]) return true;
+            else if(pathvis[it] == 1) return true;
         }
-       
+
         pathvis[node] = 0;
         return false;
+        
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        // nodes  are given convert to adjcy list!
+        vector<int> vis(numCourses, 0), pathvis(numCourses, 0);
         vector<vector<int>> adjLs(numCourses);
         for(auto &it : prerequisites){
             int u = it[0];
@@ -22,13 +25,10 @@ public:
             //adjLs[u].push_back(v);
             adjLs[v].push_back(u);
         }
-        vector<int> vis(numCourses,0);
-        vector<int> pathvis(numCourses,0);
-        // if cycle false
-        for(int i =0; i<numCourses; i++){
+        for(int i = 0; i<numCourses; i++){
             if(!vis[i]){
-                if(isCycle(i, adjLs, vis, pathvis)) return false;
-            } 
+                if(dfs(adjLs, i, vis, pathvis) == true) return false;
+            }
         }
         return true;
     }
