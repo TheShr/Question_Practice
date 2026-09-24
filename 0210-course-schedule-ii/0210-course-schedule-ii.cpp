@@ -1,39 +1,43 @@
 class Solution {
 public:
-    bool iscyclic(int node, vector<int> &vis, vector<vector<int>> &adjLs, vector<int> &pathvis, vector<int> &ans){
+    bool dfs(vector<vector<int>> &adjLs, stack<int> &st, vector<int> &vis, int node, vector<int> &pathvis){
         vis[node] = 1;
         pathvis[node] = 1;
 
         for(auto &it : adjLs[node]){
             if(!vis[it]){
-                if(iscyclic(it, vis, adjLs, pathvis, ans)) return true;
-                
+                if(dfs(adjLs, st, vis, it, pathvis) == true) return true;
             }
-            else if(pathvis[it]) return true;
+            else if(vis[it] && pathvis[it]) return true;   
         }
         pathvis[node] = 0;
-        ans.push_back(node);
+        st.push(node);
         return false;
     }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> vis(numCourses,0);
-        vector<int> pathvis(numCourses,0);
+        vector<int> vis(numCourses), ans;
+        vector<int> pathvis(numCourses);
+        stack<int> st;
         vector<vector<int>> adjLs(numCourses);
-        vector<int> ans;
-        for(auto &it : prerequisites){
-            int u = it[0];
-            int v = it[1];
+
+        for(int i = 0; i< prerequisites.size(); i++){
+            int u = prerequisites[i][0];
+            int v = prerequisites[i][1];
+
             adjLs[v].push_back(u);
         }
+
         for(int i = 0; i<numCourses; i++){
             if(!vis[i]){
-                if(iscyclic(i, vis, adjLs, pathvis, ans)){
-                    return {};
-                }
+                if(dfs(adjLs, st, vis, i, pathvis) == true) return {};
             }
         }
-        
-        reverse(ans.begin(), ans.end());
+
+        while(!st.empty()){
+            ans.push_back(st.top());
+            st.pop();
+        }
+
         return ans;
     }
 };
