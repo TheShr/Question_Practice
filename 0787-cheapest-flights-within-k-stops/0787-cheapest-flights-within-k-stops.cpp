@@ -20,7 +20,7 @@ public:
             int node = it.second.first;
             int d = it.second.second;
             q.pop();
-            if(stops > k) continue;
+            if(stops > k) break;
             for(auto &it : adjLs[node]){
                 int u = it.first;
                 int w = it.second;
