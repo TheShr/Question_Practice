@@ -6,11 +6,7 @@ public:
         vector<vector<int>> dist(n, vector<int> (m, INT_MAX));
         if(grid[0][0] == 1) return -1;
         // {{dist, {x, y}}
-        priority_queue<
-            pair<int, pair<int,int>>,
-            vector<pair<int, pair<int,int>>>,
-            greater<pair<int, pair<int,int>>>
-        > pq;
+        queue<pair<int, pair<int,int>>> pq;
 
         int dr[] = {0, 0, 1, -1, 1, 1, -1, -1};
         int dc[] = {1, -1, 0, 0, 1, -1, 1, -1};
@@ -18,7 +14,7 @@ public:
         pq.push({1, {0,0}});
         dist[0][0] = 1;
         while(!pq.empty()){
-            auto &it = pq.top();
+            auto &it = pq.front();
             int d = it.first;
             int row = it.second.first;
             int col = it.second.second;
