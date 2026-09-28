@@ -25,7 +25,7 @@ public:
                 int u = it.first;
                 int w = it.second;
 
-                if(dist[u] > d + w && stops <= k){
+                if(dist[u] > d + w ){
                     dist[u] = d + w;
 
                     q.push({stops+1, {u, dist[u]}});
