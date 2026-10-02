@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/TheShr/Question_Practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TheShr/Question_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TheShr/Question_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TheShr/Question_Practice/tree/master/0035-search-insert-position) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/TheShr/Question_Practice/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/TheShr/Question_Practice/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/TheShr/Question_Practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TheShr/Question_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/TheShr/Question_Practice/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/TheShr/Question_Practice/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/TheShr/Question_Practice/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/TheShr/Question_Practice/tree/master/0455-assign-cookies) |
