@@ -57,19 +57,19 @@ public:
         int ans = 0;
         if(connections.size() < n-1) return -1;
        
-        int components = n;
+        int components = 0;
         for(auto &it : connections){
             int u = it[0];
             int v = it[1];
 
             if(ds.findParent(u) != ds.findParent(v)){
                 ds.unionByRank(u,v);
-                components--;
+                components++;
             }
         }
         
     
-        return components-1;
+        return n-components-1;
     }
 };
 
