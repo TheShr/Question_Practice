@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/TheShr/Question_Practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheShr/Question_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/TheShr/Question_Practice/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/TheShr/Question_Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/TheShr/Question_Practice/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TheShr/Question_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/TheShr/Question_Practice/tree/master/1631-path-with-minimum-effort) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/TheShr/Question_Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/TheShr/Question_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TheShr/Question_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/TheShr/Question_Practice/tree/master/1631-path-with-minimum-effort) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/TheShr/Question_Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TheShr/Question_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/TheShr/Question_Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/TheShr/Question_Practice/tree/master/1631-path-with-minimum-effort) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/TheShr/Question_Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/TheShr/Question_Practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/TheShr/Question_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/TheShr/Question_Practice/tree/master/1631-path-with-minimum-effort) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/TheShr/Question_Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
