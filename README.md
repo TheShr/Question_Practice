@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TheShr/Question_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/TheShr/Question_Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TheShr/Question_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2924-find-champion-ii](https://github.com/TheShr/Question_Practice/tree/master/2924-find-champion-ii) |
 ## Greedy
 |  |
 | ------- |
