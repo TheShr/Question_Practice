@@ -1,7 +1,7 @@
 class Solution {
 public:
-    void dfs(int node, int parent, vector<int> &vis, vector<vector<pair<int, int>>>& adjls, int &ans){
-        vis[node] = 1;
+    void dfs(int node, int parent, vector<vector<pair<int, int>>>& adjls, int &ans){
+       
         for(auto &it : adjls[node]){
             int u = it.first;
             int w = it.second;
@@ -9,11 +9,11 @@ public:
             if(u == parent) continue;
 
             ans += w;
-            dfs(u, node, vis, adjls, ans);
+            dfs(u, node, adjls, ans);
         }
     }
     int minReorder(int n, vector<vector<int>>& connections) {
-        vector<int> vis(n);
+  
         vector<vector<pair<int, int>>> adjls(n);
 
         for(auto &it : connections){
@@ -25,7 +25,7 @@ public:
 
         }
         int ans = 0;
-        dfs(0, -1, vis, adjls, ans);
+        dfs(0, -1, adjls, ans);
 
         return ans;
     }
