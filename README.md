@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/TheShr/Question_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TheShr/Question_Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/TheShr/Question_Practice/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/TheShr/Question_Practice/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/TheShr/Question_Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/TheShr/Question_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/TheShr/Question_Practice/tree/master/1020-number-of-enclaves) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/TheShr/Question_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/TheShr/Question_Practice/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TheShr/Question_Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0997-find-the-town-judge](https://github.com/TheShr/Question_Practice/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/TheShr/Question_Practice/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TheShr/Question_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/TheShr/Question_Practice/tree/master/1584-min-cost-to-connect-all-points) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TheShr/Question_Practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/TheShr/Question_Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/TheShr/Question_Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/TheShr/Question_Practice/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TheShr/Question_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
