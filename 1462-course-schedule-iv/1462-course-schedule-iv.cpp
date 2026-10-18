@@ -1,10 +1,10 @@
 class Solution {
 public:
 
-    bool dfs(int node, int target, vector<int> &vis, vector<vector<int>> &adjls){
-        vis[node] = 1;
+    bool dfs(int node, int target, vector<vector<int>> &adjls){
+       
         for(auto &it : adjls[node]){
-            if(dfs(it , target, vis, adjls) == true) return true;
+            if(dfs(it , target, adjls) == true) return true;
             else if(it == target) return true;
         }
 
@@ -22,10 +22,9 @@ public:
         }
 
         for(auto &it : queries){
-            vector<int> vis(n);
             int st = it[0];
             int target = it[1];
-            bool temp = dfs(st, target, vis, adjls);
+            bool temp = dfs(st, target, adjls);
             ans.push_back(temp);
         }
 
