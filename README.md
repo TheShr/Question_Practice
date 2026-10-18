@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/TheShr/Question_Practice/tree/master/1020-number-of-enclaves) |
 | [1192-critical-connections-in-a-network](https://github.com/TheShr/Question_Practice/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TheShr/Question_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1462-course-schedule-iv](https://github.com/TheShr/Question_Practice/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TheShr/Question_Practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/TheShr/Question_Practice/tree/master/1631-path-with-minimum-effort) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/TheShr/Question_Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/TheShr/Question_Practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/TheShr/Question_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TheShr/Question_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1462-course-schedule-iv](https://github.com/TheShr/Question_Practice/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TheShr/Question_Practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/TheShr/Question_Practice/tree/master/1631-path-with-minimum-effort) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/TheShr/Question_Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/TheShr/Question_Practice/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/TheShr/Question_Practice/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TheShr/Question_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1462-course-schedule-iv](https://github.com/TheShr/Question_Practice/tree/master/1462-course-schedule-iv) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/TheShr/Question_Practice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1584-min-cost-to-connect-all-points](https://github.com/TheShr/Question_Practice/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TheShr/Question_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/TheShr/Question_Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TheShr/Question_Practice/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/TheShr/Question_Practice/tree/master/0802-find-eventual-safe-states) |
+| [1462-course-schedule-iv](https://github.com/TheShr/Question_Practice/tree/master/1462-course-schedule-iv) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TheShr/Question_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Binary Search
 |  |
