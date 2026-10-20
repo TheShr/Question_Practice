@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TheShr/Question_Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/TheShr/Question_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/TheShr/Question_Practice/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/TheShr/Question_Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/TheShr/Question_Practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/TheShr/Question_Practice/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/TheShr/Question_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/TheShr/Question_Practice/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/TheShr/Question_Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/TheShr/Question_Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/TheShr/Question_Practice/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/TheShr/Question_Practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TheShr/Question_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TheShr/Question_Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/TheShr/Question_Practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/TheShr/Question_Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/TheShr/Question_Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/TheShr/Question_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/TheShr/Question_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TheShr/Question_Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/TheShr/Question_Practice/tree/master/0229-majority-element-ii) |
