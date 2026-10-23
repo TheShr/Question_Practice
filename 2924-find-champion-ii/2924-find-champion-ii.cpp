@@ -6,7 +6,7 @@ public:
         vector<vector<int>> adjls(n);
         
 
-        for(auto &it : edges){
+        for(auto &it : edges){ 
             int u = it[0];
             int v = it[1];
 
