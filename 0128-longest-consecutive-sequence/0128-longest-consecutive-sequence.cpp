@@ -2,8 +2,9 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         // Optimal Soln by using set
-        set<int> s;
+        unordered_set<int> s;
         int n = nums.size();
+        if(n == 0) return 0;
         int ans = 0;
         int cnt = 0;
         for(int i = 0; i<n; i++){
