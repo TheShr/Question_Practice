@@ -681,4 +681,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/TheShr/Question_Practice/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/TheShr/Question_Practice/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
